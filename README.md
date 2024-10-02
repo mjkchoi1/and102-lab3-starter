@@ -15,11 +15,12 @@ Time spent: **3** hours spent in total <!-- Replace 'X' with the number of hours
 The following **required** functionality is completed:
 
 - [x] (2 pts) **Live data is loaded from the NY Times API.**
-  - https://github.com/user-attachments/assets/c7ae429f-8020-4bfe-b4ba-e8950c662ec1 <!-- Replace this link with your actual image/GIF link -->
+      ![Image/GIF showing additional email information](https://github.com/user-attachments/assets/c7ae429f-8020-4bfe-b4ba-e8950c662ec1)
+  -  <!-- Replace this link with your actual image/GIF link -->
 - [x] (4 pts) **Books are displayed using a RecyclerView.**
   - Displays book ranking, cover, title, author, and description.
   - Book cover images are downloaded using Glide.
-  - https://github.com/user-attachments/assets/c7ae429f-8020-4bfe-b4ba-e8950c662ec1 <!-- Replace this link with your actual image/GIF link -->
+  - ![Image/GIF showing additional email information](https://github.com/user-attachments/assets/c7ae429f-8020-4bfe-b4ba-e8950c662ec1) <!-- Replace this link with your actual image/GIF link -->
 
 ### Stretch Features
 
@@ -27,7 +28,8 @@ The following **stretch** functionality is implemented:
 
 - [x] (4 pts) **Improved layout and styling to match the NY Times website.**
   - Includes a "buy" button that links to Amazon.
-  - https://github.com/user-attachments/assets/9427924e-21be-4909-bef0-380760f5d017 <!-- Replace this link with your actual image/GIF link -->
+  - ![Image/GIF showing additional email information](https://github.com/user-attachments/assets/9427924e-21be-4909-bef0-380760f5d017)
+  -  <!-- Replace this link with your actual image/GIF link -->
 
 ## Notes
 
